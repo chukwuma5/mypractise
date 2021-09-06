@@ -20,7 +20,6 @@
          - PRACTISE SEMANTIC ELEMENTS, BLOCK-LEVEL ELEMENTS(DIVS), ADEQUATE LAYOUT.
   <img src="large2.png">   
 
-  <img src="excercise.png">                                        
          
           OVERVIEW(/.css/)
          - PRACTISE DESIGNING OF LAYOUT'S INFORM OF CARD'S TO MAKE THEM ARRANGED EQUALLY
