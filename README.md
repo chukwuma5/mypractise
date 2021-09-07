@@ -5,7 +5,7 @@
  Thankyou for checking this work. 
 
  ##ABOUT THIS WORK:
-    This a work done for practising of CSS(Cascading Style Sheet), making sure i get to work on designing of price panel cards, because cards are important aspect in our sites.We find them almost everywhere. This is an intro to cards and flex-box designs.
+    This a work done for practising of CSS(Cascading Style Sheet), making sure i got to work on designing of price panel cards, because cards are important aspect in our sites.We find them almost everywhere. This is an intro to cards and flex-box designs.
 
  ## pictures, of our work;
  <img src="largecard.png">
@@ -20,7 +20,6 @@
          - PRACTISE SEMANTIC ELEMENTS, BLOCK-LEVEL ELEMENTS(DIVS), ADEQUATE LAYOUT.
   <img src="large2.png">   
 
-  <img src="excercise.png">                                        
          
           OVERVIEW(/.css/)
          - PRACTISE DESIGNING OF LAYOUT'S INFORM OF CARD'S TO MAKE THEM ARRANGED EQUALLY
@@ -57,6 +56,7 @@
 
    ## Resources that helped ##
    -For the Colors[https://coolors.co/palettes/trending/blue]
+   
    -For the Uploading of work[https://jumpshare.com/]
    
    ## Best syntax Used
